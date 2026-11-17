@@ -1,0 +1,6 @@
+{
+  "name": "PAC-HOP // Minimalist Daylight Arcade",
+  "description": "เกม Pac-Man โทนสว่างสไตล์มินิมอลสบายตา พร้อมปุ่มกระโดดข้ามสิ่งกีดขวางและผี พร้อมเสียงซินธ์คลาสสิกสำหรับผู้เล่นทุกวัย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
